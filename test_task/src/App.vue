@@ -6,6 +6,3 @@ import Main from './components/Main.vue'
     <Main />
 </template>
 
-<style>
-
-</style>
